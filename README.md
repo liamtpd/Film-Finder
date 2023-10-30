@@ -16,13 +16,13 @@ Ensure you have the following installed:
 
 ### Installation and Setup
 1. Clone the repository:
-git clone [/liamtpd/Film-Finder]
+`git clone /liamtpd/Film-Finder`
 
 2. Navigate to the project directory:
-cd film-finder
+`cd film-finder`
 
 3. Start the server:
-http-server
+`http-server`
 
 4. Open your web browser and navigate to `http://localhost:8080`.
 
