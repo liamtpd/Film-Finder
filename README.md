@@ -4,7 +4,7 @@ Film Finder is a web-based application that allows users to easily discover film
 
 ## Features
 - Intuitive dropdown menu for genre selection.
-- Quick film suggestions based on user's selected genre.
+- Quick film suggestions based on the user's selected genre.
 - Simple, user-friendly interface.
 
 ## Getting Started
@@ -16,7 +16,7 @@ Ensure you have the following installed:
 
 ### Installation and Setup
 1. Clone the repository:
-`git clone /liamtpd/Film-Finder`
+`git clone https://github.com/liamtpd/Film-Finder.git`
 
 2. Navigate to the project directory:
 `cd film-finder`
